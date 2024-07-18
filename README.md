@@ -17,7 +17,7 @@ The dataset is collected from FAA (Fedaral Aviation Administration) during 2000-
 📌 **We can see that 2009 has then highest number of bird strike incidents.**
 
 
-### 3. Top 10 Airlines having encountered bird strike
+### 2. Top 10 Airlines having encountered bird strike
 
 ![image](https://user-images.githubusercontent.com/31981663/203217767-f013f8fe-7724-4c05-94b9-29d41b025eed.png)
 
